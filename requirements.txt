@@ -5,4 +5,4 @@ unstructured
 unstructured[local-inference]
 PyMuPDF
 Gradio
--U langchain-community
+langchain-community
